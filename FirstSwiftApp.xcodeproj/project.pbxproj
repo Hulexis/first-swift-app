@@ -115,7 +115,6 @@
 			children = (
 				B626E67E28FAEDAE0008ADFA /* Landmark.swift */,
 				B626E68028FAEF7F0008ADFA /* ModelData.swift */,
-				B626E68228FAF1C90008ADFA /* Views */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -183,9 +182,10 @@
 		B67A384B28F9D51B00F8FB4C /* FirstSwiftApp */ = {
 			isa = PBXGroup;
 			children = (
+				B626E68228FAF1C90008ADFA /* Views */,
+				B67A384C28F9D51B00F8FB4C /* FirstSwiftAppApp.swift */,
 				B626E68428FAF2250008ADFA /* Resources */,
 				B626E68328FAF1F00008ADFA /* Model */,
-				B67A384C28F9D51B00F8FB4C /* FirstSwiftAppApp.swift */,
 				B67A385028F9D51C00F8FB4C /* Assets.xcassets */,
 				B67A385228F9D51C00F8FB4C /* Preview Content */,
 			);
